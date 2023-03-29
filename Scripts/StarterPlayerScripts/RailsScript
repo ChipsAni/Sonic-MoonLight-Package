@@ -175,11 +175,11 @@ function characteradded(playercharacter)
 	spark2.Parent = leftfoot
 	
 	local anim1 = Instance.new("Animation")
-	anim1.AnimationId = "rbxassetid://12849042839"
+	anim1.AnimationId = "rbxassetid://" --- Change the animation id
 	local anim2 = Instance.new("Animation")
-	anim2.AnimationId = "rbxassetid://12849042839"
+	anim2.AnimationId = "rbxassetid://" --- Change the animation id
 	local anim3 = Instance.new("Animation")
-	anim3.AnimationId = "rbxassetid://12849042839"
+	anim3.AnimationId = "rbxassetid://" --- Change the animation id
 	normalslide1 = humanoid:LoadAnimation(anim1)
 	fastslide = humanoid:LoadAnimation(anim2)
 	running = humanoid:LoadAnimation(anim3)
