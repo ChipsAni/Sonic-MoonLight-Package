@@ -1,10 +1,11 @@
 # Sonic-MoonLight-Package-Engine
-A redirect modification to the Open Source Engine: "Sonic Ring Engine"            
-Which features bug fixes, additional content and more.
+A redirect modification of the Open Source Engine: "Sonic Ring Engine"            
+Which features general bug fixes, additional content and more.
 
 # **Made By: Sonic Sunshine Team**
+SMPE IS Open Sourced, but it will not feature most of the mods since some of them are "Sunshine Team Exclusive"
 
-As The SMPE IS Open Sourced, it will not feature most of the content I've made for it.
+Game breaking bugs, Better Mechanics and etc. WILL be open sourced. NO MATTER WHAT.
 
 
 # SMPE Guide: 
