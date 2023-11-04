@@ -1,18 +1,18 @@
-# Sonic-MoonLight-Package
-A redirect port of the original Sonic MoonLight Engine to the Open Source Engine: "Sonic Ring Engine"            
-Which also features general bug fixes, additional content and more.
+# Unbounded-Tech-Package
+A redirect Guide for Open Sourced Stuff that are featured in the Unbounded Tech Engine. (POWERED BY DIGITAL SWIRL ENGINE, ORIGINAL BUILD USED FROM HELIX)
+Also features the Sonic Moonlight Package which are ports of the original Sonic MoonLight Engine to your own Custom made/Open Source Engines
+         
+Both features general bug fixes, additional content and more.
 
-# **Made By: Sonic Sunshine Team**
-SMPE IS Open Sourced, but it will not feature most of the mods since some of them are "Sunshine Team Exclusive"
-
-Game breaking bugs, Better Mechanics and etc. WILL be open sourced. NO MATTER WHAT.
+# **Made By: Unbounded Tech Team**
+SMPE and UTP are partially Open Sourced, meaning not most of it is available. 
 
 
 # SMPE Guide: 
 **BETTER RAILS MOD:**
 
 Download the Rails rbxm file, and the script that's located in the folder "scripts"  
-Once opening ROBLOX STUDIO And having your SRE (Sonic Ring Engine) Set up, Delete everything that's about SRE Rails.
-Open the RBXM file in your SRE ROBLOX STUDIO Game and put the Rails in a folder called "Objects" 
+Once opening ROBLOX STUDIO And having your own Engine Set up.
+Open the RBXM file in your ROBLOX STUDIO Game and put the Rails in a folder called "Objects" 
 Then Copy And Paste (or import) The Script into "StarterPlayerScripts" 
 And everything should be good to work!
