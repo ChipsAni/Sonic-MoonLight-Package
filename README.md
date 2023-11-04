@@ -10,7 +10,7 @@ SMPE and UTP are partially Open Sourced, meaning not most of it is available to 
 Some games are powered by Unbounded Tech, and some partially uses Unbounded Tech Code.
 
 Credit Needed for most of the stuff, as some of the stuff here I didn't made. Proper Credit will be displayed in every Guide and Script,
-Credit People Needed.
+Credit IS Needed.
 
 # **UNBOUNDED TECH FEATURES**
 Even if it's powered by DIGITAL SWIRL it does have lots of changes added to it. 
