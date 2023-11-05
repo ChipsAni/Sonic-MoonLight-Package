@@ -9,7 +9,7 @@ Installations are explained in guides below.
 SMPE and UTP are partially Open Sourced, meaning not most of it is available to the public.
 Some games are powered by Unbounded Tech, and some partially uses Unbounded Tech Code.
 
-Credit Needed for most of the stuff, as some of the stuff here I didn't made. Proper Credit will be displayed in every Guide and Script,
+Credit Needed for most of the stuff, as some of the stuff here I didn't made (SMPE RAILS). Proper Credit will be displayed in every Guide and Script,
 Credit IS Needed.
 
 # **UNBOUNDED TECH FEATURES**
